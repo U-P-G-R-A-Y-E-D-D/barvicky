@@ -1,0 +1,9 @@
+C:\Rohanova\2017_2018\IT4\SIT\VisualC#\barvicky\barvicky\bin\Debug\barvicky.exe.config
+C:\Rohanova\2017_2018\IT4\SIT\VisualC#\barvicky\barvicky\bin\Debug\barvicky.exe
+C:\Rohanova\2017_2018\IT4\SIT\VisualC#\barvicky\barvicky\bin\Debug\barvicky.pdb
+C:\Rohanova\2017_2018\IT4\SIT\VisualC#\barvicky\barvicky\obj\Debug\barvicky.csprojResolveAssemblyReference.cache
+C:\Rohanova\2017_2018\IT4\SIT\VisualC#\barvicky\barvicky\obj\Debug\barvicky.Properties.Resources.resources
+C:\Rohanova\2017_2018\IT4\SIT\VisualC#\barvicky\barvicky\obj\Debug\barvicky.csproj.GenerateResource.Cache
+C:\Rohanova\2017_2018\IT4\SIT\VisualC#\barvicky\barvicky\obj\Debug\barvicky.exe
+C:\Rohanova\2017_2018\IT4\SIT\VisualC#\barvicky\barvicky\obj\Debug\barvicky.pdb
+C:\Rohanova\2017_2018\IT4\SIT\VisualC#\barvicky\barvicky\obj\Debug\barvicky.Form1.resources
